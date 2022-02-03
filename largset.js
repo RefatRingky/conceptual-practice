@@ -1,6 +1,6 @@
 var number1 = 10;
 var number2 = 20;
-var number3 = 30;
+var number3 = 350;
 if (number1 > number2) {
     if (number1 > number3) {
         console.log("Number one is larger");  
